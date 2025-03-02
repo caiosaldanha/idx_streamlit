@@ -3,7 +3,7 @@
 1.0
 
 # Libraries
-streamlit
-matplotlib
-numpy
-pandas
+- streamlit
+- matplotlib
+- numpy
+- pandas
